@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0AF842-884D-4721-B20D-F3BEEA5E830E}|Laboratorio47\\Laboratorio47.csproj|c:\\users\\usuario\\repositorios\\ds4\\laboratorio4\\laboratorio47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0AF842-884D-4721-B20D-F3BEEA5E830E}|Laboratorio47\\Laboratorio47.csproj|solutionrelative:laboratorio47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F960C1DC-9F06-4EF1-B54B-2045636F116F}|Laboratorio46\\Laboratorio46.csproj|c:\\users\\usuario\\repositorios\\ds4\\laboratorio4\\laboratorio46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F960C1DC-9F06-4EF1-B54B-2045636F116F}|Laboratorio46\\Laboratorio46.csproj|solutionrelative:laboratorio46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129D3637-150D-4E84-B328-6F1238B439E5}|Laboratorio45\\Laboratorio45.csproj|c:\\users\\usuario\\repositorios\\ds4\\laboratorio4\\laboratorio45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129D3637-150D-4E84-B328-6F1238B439E5}|Laboratorio45\\Laboratorio45.csproj|solutionrelative:laboratorio45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03204614-783C-4666-B20F-658810B00AD4}|Laboratorio44\\Laboratorio44.csproj|c:\\users\\usuario\\repositorios\\ds4\\laboratorio4\\laboratorio44\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03204614-783C-4666-B20F-658810B00AD4}|Laboratorio44\\Laboratorio44.csproj|solutionrelative:laboratorio44\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7213A083-7506-4B61-8998-E0E5C893CD44}|Laboratorio42\\Laboratorio42.csproj|c:\\users\\usuario\\repositorios\\ds4\\laboratorio4\\laboratorio42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7213A083-7506-4B61-8998-E0E5C893CD44}|Laboratorio42\\Laboratorio42.csproj|solutionrelative:laboratorio42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87085154-37F9-4705-A050-BE185AAA6EFC}|Laboratorio43\\Laboratorio43.csproj|c:\\users\\usuario\\repositorios\\ds4\\laboratorio4\\laboratorio43\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87085154-37F9-4705-A050-BE185AAA6EFC}|Laboratorio43\\Laboratorio43.csproj|solutionrelative:laboratorio43\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0692BA2C-8B36-4AAC-AC6E-A17CC8BF90B0}|Laboratorio41\\Laboratorio41.csproj|c:\\users\\usuario\\repositorios\\ds4\\laboratorio4\\laboratorio41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0692BA2C-8B36-4AAC-AC6E-A17CC8BF90B0}|Laboratorio41\\Laboratorio41.csproj|solutionrelative:laboratorio41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio47\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio47\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio47\\Program.cs",
+              "RelativeToolTip": "Laboratorio47\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T07:13:34.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio46\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio46\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio46\\Program.cs",
+              "RelativeToolTip": "Laboratorio46\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T07:10:43.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio45\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio45\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio45\\Program.cs",
+              "RelativeToolTip": "Laboratorio45\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T07:07:14.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio44\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio44\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio44\\Program.cs",
+              "RelativeToolTip": "Laboratorio44\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T07:03:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio43\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio43\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio43\\Program.cs",
+              "RelativeToolTip": "Laboratorio43\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:45:11.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio42\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio42\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio42\\Program.cs",
+              "RelativeToolTip": "Laboratorio42\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:40:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio41\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio41\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios\\ds4\\Laboratorio4\\Laboratorio41\\Program.cs",
+              "RelativeToolTip": "Laboratorio41\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:35:36.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
