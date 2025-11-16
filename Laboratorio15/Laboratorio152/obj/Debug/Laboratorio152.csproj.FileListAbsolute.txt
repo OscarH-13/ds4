@@ -1,0 +1,2 @@
+C:\Users\Oscar\source\repos\DS4\Laboratorio15\Laboratorio152\obj\Debug\Laboratorio152.csproj.AssemblyReference.cache
+C:\Users\Oscar\source\repos\DS4\Laboratorio15\Laboratorio152\obj\Debug\Laboratorio152.csproj.CoreCompileInputs.cache
