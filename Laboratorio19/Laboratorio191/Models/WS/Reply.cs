@@ -9,5 +9,6 @@ namespace Laboratorio191.Models.WS
     {
         public int result { get; set; }
         public string message { get; set; }
+
     }
 }
